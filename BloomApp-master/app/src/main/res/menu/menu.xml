@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/myplants"
+        android:title="My plants"
+        android:icon="@mipmap/ic_plant_foreground"/>
+
+    <item
+        android:id="@+id/plantsnap"
+        android:title="Plant snap"
+        android:icon="@mipmap/ic_camera_foreground"/>
+
+    <item
+        android:id="@+id/myprofile"
+        android:title="My profile"
+        android:icon="@mipmap/ic_user_foreground"/>
+
+</menu>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Bloom3</string>
+
+    <string name="plant_1">Opuntia Ficus-indica</string>
+    <string name="plant_2">Crassula Ovata</string>
+    <string name="plant_3">Zamioculas Zamiifolia</string>
+    <string name="plant_4">Ficus Ginseng</string>
+    <string name="plant_5">Dracena Marginata</string>
+    <string name="plant_6">Sansieveria</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="txv_title_temp">Smart Home</string>
+    <string name="txv_temperature">Temperature</string>
+    <string name="txv_humidity">Humidity</string>
+</resources>
